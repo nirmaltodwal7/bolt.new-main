@@ -51,4 +51,4 @@ Check out the [Issues section](https://github.com/nirmaltodwal7) to report an is
 Bolt.new supports most popular JavaScript frameworks and libraries. If it runs on StackBlitz, it will run on Bolt.new as well.
 
 **How can I add make sure my framework/project works well in bolt?**  
-We are excited to work with the JavaScript ecosystem to improve functionality in Bolt. Reach out to us via [hello@stackblitz.com](mailto:nirmaltodwal566@gmail.com) to discuss how we can partner!
+We are excited to work with the JavaScript ecosystem to improve functionality in Bolt. Reach out to us via [nirmaltodwal566@gmail.com](mailto:nirmaltodwal566@gmail.com) to discuss how we can partner!
